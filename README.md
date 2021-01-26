@@ -12,7 +12,7 @@ Below, are screenshots of the website.
 
 
 
-![Chats page](screenshots/macster-chats.jpg) <br />
+![Chats page](https://github.com/ArshanK/Macster/blob/master/screenshots/macster-chats.jpg) <br />
 
 
 
