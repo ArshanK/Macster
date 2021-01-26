@@ -8,16 +8,16 @@ Below, are screenshots of the website.
 
 
 
-![Macster homepage](C:/Program Files/Typora/screenshots/macster-homepage.jpg) <br />
+![Macster homepage](screenshots/macster-homepage.jpg) <br />
 
 
 
-![Chats page](C:/Program Files/Typora/screenshots/macster-chats.jpg) <br />
+![Chats page](screenshots/macster-chats.jpg) <br />
 
 
 
-![Groups page](C:/Program Files/Typora/screenshots/macster-groups.jpg) <br />
+![Groups page](screenshots/macster-groups.jpg) <br />
 
 
 
-![Search page](C:/Program Files/Typora/screenshots/macster-search.jpg) <br />
+![Search page](screenshots/macster-search.jpg) <br />
