@@ -1,6 +1,6 @@
 # Macster
 
-A mockup website for communication between McMaster students and faculty. Macster is created to be the sole destination for communicaton within the University: no more wondering where to contact the professor or where to hold group project communications. *Course project for SFWRENG 4HC3*.
+A mockup website made in **React** for communication between McMaster students and faculty. Macster is created to be the sole destination for communicaton within the University: no more wondering where to contact the professor or where to hold group project communications. *Course project for SFWRENG 4HC3*.
 
 To access the website, visit [https://ArshanK.github.io/Macster](https://ArshanK.github.io/Macster).
 
